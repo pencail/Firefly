@@ -1,0 +1,7 @@
+{
+  "name": "firefly",
+  "compatibility_date": "YYYY-MM-DD", // 更新为你部署当天的日期
+  "assets": {
+    "directory": "./dist"
+  }
+}
