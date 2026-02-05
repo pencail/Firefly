@@ -20,19 +20,19 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibli",
 			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/38932988",
+			url: "https://space.bilibili.com/17367997",
 			showName: false,
 		},
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "https://github.com/pencail",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
+			url: "mailto:",
 			showName: false,
 		},
 		{
